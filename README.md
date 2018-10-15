@@ -1,5 +1,6 @@
 # spring-boot热部署
-  <dependency>
+  
+  	<dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-devtools</artifactId>
 			 <optional>true</optional>
