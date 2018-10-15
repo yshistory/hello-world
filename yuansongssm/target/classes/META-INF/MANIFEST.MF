@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: yuansongssm
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Administrator
+Implementation-Vendor-Id: com.yuansong
+Build-Jdk: 1.8.0_51
+Implementation-URL: http://projects.spring.io/spring-boot/j1803-spring
+ boot-ssm2/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
