@@ -1,3 +1,5 @@
+#javaServlet
+这个是maven工程中的Tomcat的部署。
 # spring-boot热部署
   
   	<dependency>
@@ -21,3 +23,4 @@
 	</build>
   
   注意：此配置仅在STS中适用，如果不成功可能是将STS的自动编译取消了，在STS顶部的project中打开->build automatically，即可。
+  
